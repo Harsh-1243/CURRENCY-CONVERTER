@@ -1,0 +1,51 @@
+*{
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Josefin Sans","sans-serif";
+    font-weight: 900;
+
+}
+
+
+body{
+
+    height: 100vh;
+    background-image:linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)),url("https://media.istockphoto.com/id/808407138/vector/seamless-texture-with-dolar-coins-flat-style-pattern.jpg?s=612x612&w=0&k=20&c=CQkT7OpvP4lCZA7uMRNBqMiivKZVTjh0ZzggyXxm5PE=");
+}
+
+.heading h1{ 
+
+    font-family: "Bungee Spice";
+
+}
+
+
+.form-control{
+
+    height: 3rem;
+   
+
+}
+
+#from-sel{
+
+    border: none;
+    background: none;
+    outline: none;
+}
+
+#to-sel{
+
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.curr-con-cont{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: #fff;
+}
